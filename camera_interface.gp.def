@@ -55,473 +55,473 @@ VIAS 3 ;
 END VIAS
 COMPONENTS 282 ;
   - _248_ INV_X2
-    + PLACED ( 49020 30800 ) N ;
+    + PLACED ( 55480 50400 ) FS ;
   - _251_ INV_X4
-    + PLACED ( 54340 44800 ) FS ;
+    + PLACED ( 59280 58800 ) N ;
   - _252_ NOR4_X1
-    + PLACED ( 43320 39200 ) FS ;
+    + PLACED ( 54340 58800 ) N ;
   - _253_ NAND4_X4
-    + PLACED ( 19380 50400 ) FS ;
+    + PLACED ( 10260 30800 ) N ;
   - _254_ INV_X1
-    + PLACED ( 28500 39200 ) FS ;
+    + PLACED ( 24700 30800 ) N ;
   - _256_ INV_X1
-    + PLACED ( 27740 36400 ) N ;
+    + PLACED ( 29640 42000 ) N ;
   - _257_ NAND4_X4
-    + PLACED ( 29260 39200 ) FS ;
+    + PLACED ( 28120 30800 ) N ;
   - _258_ NOR3_X2
-    + PLACED ( 33060 42000 ) N ;
+    + PLACED ( 46360 42000 ) N ;
   - _259_ AND2_X1
-    + PLACED ( 42940 42000 ) N ;
+    + PLACED ( 57760 58800 ) N ;
   - _261_ INV_X1
-    + PLACED ( 70680 36400 ) N ;
+    + PLACED ( 70680 44800 ) FS ;
   - _263_ NOR3_X4
-    + PLACED ( 32680 36400 ) N ;
+    + PLACED ( 38000 39200 ) FS ;
   - _264_ NOR2_X1
-    + PLACED ( 44460 42000 ) N ;
+    + PLACED ( 49020 42000 ) N ;
   - _265_ AND2_X1
-    + PLACED ( 42180 30800 ) N ;
+    + PLACED ( 48640 47600 ) N ;
   - _266_ AND2_X1
-    + PLACED ( 45220 39200 ) FS ;
+    + PLACED ( 50160 42000 ) N ;
   - _267_ AND2_X1
-    + PLACED ( 55480 36400 ) N ;
+    + PLACED ( 54340 44800 ) FS ;
   - _268_ AND2_X1
-    + PLACED ( 69920 39200 ) FS ;
+    + PLACED ( 69160 44800 ) FS ;
   - _269_ NAND2_X1
-    + PLACED ( 19380 39200 ) FS ;
+    + PLACED ( 20520 36400 ) N ;
   - _270_ NOR4_X1
-    + PLACED ( 22040 39200 ) FS ;
+    + PLACED ( 18240 39200 ) FS ;
   - _271_ NOR2_X1
-    + PLACED ( 15960 33600 ) FS ;
+    + PLACED ( 15580 36400 ) N ;
   - _273_ NOR3_X1
-    + PLACED ( 36480 33600 ) FS ;
+    + PLACED ( 39900 44800 ) FS ;
   - _274_ INV_X1
-    + PLACED ( 22420 33600 ) FS ;
-  - _275_ MUX2_X1
-    + PLACED ( 14060 30800 ) N ;
-  - _276_ NAND2_X1
-    + PLACED ( 19000 36400 ) N ;
-  - _277_ AND2_X1
-    + PLACED ( 10260 39200 ) FS ;
-  - _278_ AND2_X1
-    + PLACED ( 17100 33600 ) FS ;
-  - _279_ AND2_X1
-    + PLACED ( 23180 33600 ) FS ;
-  - _280_ XNOR2_X1
     + PLACED ( 17860 42000 ) N ;
-  - _281_ NOR2_X1
-    + PLACED ( 20140 42000 ) N ;
-  - _282_ AND2_X1
-    + PLACED ( 12540 42000 ) N ;
-  - _283_ XNOR2_X1
-    + PLACED ( 17100 47600 ) N ;
-  - _284_ NOR2_X1
-    + PLACED ( 19380 47600 ) N ;
-  - _285_ AND2_X1
-    + PLACED ( 22420 44800 ) FS ;
-  - _286_ XNOR2_X1
-    + PLACED ( 26220 50400 ) FS ;
-  - _287_ NOR2_X1
-    + PLACED ( 18240 50400 ) FS ;
-  - _288_ NAND3_X1
-    + PLACED ( 20520 39200 ) FS ;
-  - _289_ NOR2_X1
-    + PLACED ( 25080 39200 ) FS ;
-  - _290_ XOR2_X1
-    + PLACED ( 26220 39200 ) FS ;
-  - _291_ NOR2_X1
-    + PLACED ( 23940 39200 ) FS ;
-  - _293_ NOR2_X1
-    + PLACED ( 37240 22400 ) FS ;
-  - _294_ INV_X1
-    + PLACED ( 21660 44800 ) FS ;
-  - _295_ AND3_X1
-    + PLACED ( 20520 47600 ) N ;
-  - _296_ XOR2_X2
-    + PLACED ( 38760 30800 ) N ;
-  - _297_ NOR2_X1
-    + PLACED ( 41040 28000 ) FS ;
-  - _298_ NAND3_X1
-    + PLACED ( 38380 22400 ) FS ;
-  - _299_ AOI21_X1
-    + PLACED ( 39520 28000 ) FS ;
-  - _300_ MUX2_X1
-    + PLACED ( 32680 14000 ) N ;
-  - _301_ MUX2_X1
-    + PLACED ( 36100 16800 ) FS ;
-  - _303_ MUX2_X1
-    + PLACED ( 38760 16800 ) FS ;
-  - _305_ MUX2_X1
-    + PLACED ( 34580 25200 ) N ;
-  - _306_ MUX2_X1
-    + PLACED ( 31920 19600 ) N ;
-  - _307_ MUX2_X1
-    + PLACED ( 31920 22400 ) FS ;
-  - _308_ INV_X1
-    + PLACED ( 50540 19600 ) N ;
-  - _309_ MUX2_X1
-    + PLACED ( 34580 22400 ) FS ;
-  - _310_ NAND2_X1
-    + PLACED ( 38380 28000 ) FS ;
-  - _311_ INV_X1
-    + PLACED ( 38760 25200 ) N ;
-  - _312_ OR2_X1
-    + PLACED ( 39520 25200 ) N ;
-  - _316_ NOR2_X1
-    + PLACED ( 43700 28000 ) FS ;
-  - _318_ NOR2_X1
-    + PLACED ( 38000 33600 ) FS ;
-  - _319_ AOI21_X1
-    + PLACED ( 42180 28000 ) FS ;
-  - _320_ OAI221_X1
-    + PLACED ( 41040 25200 ) N ;
-  - _321_ NOR3_X1
-    + PLACED ( 49780 36400 ) N ;
-  - _322_ NAND2_X1
-    + PLACED ( 52820 36400 ) N ;
-  - _323_ AOI21_X1
-    + PLACED ( 47880 33600 ) FS ;
-  - _324_ NAND2_X1
-    + PLACED ( 46740 33600 ) FS ;
-  - _325_ INV_X2
-    + PLACED ( 38000 36400 ) N ;
-  - _326_ OAI221_X1
-    + PLACED ( 49400 33600 ) FS ;
-  - _327_ NOR3_X1
-    + PLACED ( 51680 33600 ) FS ;
-  - _328_ OAI21_X1
-    + PLACED ( 53200 33600 ) FS ;
-  - _329_ MUX2_X1
-    + PLACED ( 53200 28000 ) FS ;
-  - _331_ AOI21_X1
-    + PLACED ( 32680 47600 ) N ;
-  - _332_ OAI21_X1
-    + PLACED ( 36100 50400 ) FS ;
-  - _333_ NAND2_X1
-    + PLACED ( 36860 53200 ) N ;
-  - _334_ OAI21_X1
-    + PLACED ( 38000 44800 ) FS ;
-  - _335_ AOI21_X1
-    + PLACED ( 38000 53200 ) N ;
-  - _336_ NOR2_X1
-    + PLACED ( 40660 39200 ) FS ;
-  - _337_ NOR3_X1
-    + PLACED ( 41800 39200 ) FS ;
-  - _338_ INV_X1
-    + PLACED ( 39520 42000 ) N ;
-  - _339_ MUX2_X1
-    + PLACED ( 36100 39200 ) FS ;
-  - _340_ AOI22_X1
-    + PLACED ( 38760 39200 ) FS ;
-  - _341_ NAND2_X1
-    + PLACED ( 44460 47600 ) N ;
-  - _342_ NOR2_X1
-    + PLACED ( 47120 47600 ) N ;
-  - _343_ AOI21_X1
-    + PLACED ( 48260 36400 ) N ;
-  - _344_ XNOR2_X1
-    + PLACED ( 39140 36400 ) N ;
-  - _345_ NAND3_X1
-    + PLACED ( 37240 25200 ) N ;
-  - _346_ NOR4_X1
-    + PLACED ( 41040 33600 ) FS ;
-  - _347_ NOR4_X1
-    + PLACED ( 39140 33600 ) FS ;
-  - _348_ OAI21_X1
-    + PLACED ( 42940 33600 ) FS ;
-  - _349_ NOR2_X1
-    + PLACED ( 30780 36400 ) N ;
-  - _350_ MUX2_X1
-    + PLACED ( 41420 36400 ) N ;
-  - _351_ OAI221_X2
-    + PLACED ( 44080 36400 ) N ;
-  - _352_ MUX2_X1
-    + PLACED ( 39520 53200 ) N ;
-  - _353_ NOR3_X1
-    + PLACED ( 34960 47600 ) N ;
-  - _354_ INV_X1
-    + PLACED ( 34200 47600 ) N ;
-  - _355_ NAND2_X1
-    + PLACED ( 37620 50400 ) FS ;
-  - _356_ NOR2_X1
-    + PLACED ( 47880 39200 ) FS ;
-  - _357_ OAI21_X1
-    + PLACED ( 41040 50400 ) FS ;
-  - _358_ AOI221_X1
-    + PLACED ( 38760 50400 ) FS ;
-  - _359_ NOR2_X1
-    + PLACED ( 42560 50400 ) FS ;
-  - _360_ MUX2_X1
-    + PLACED ( 43700 50400 ) FS ;
-  - _361_ NAND2_X1
-    + PLACED ( 36480 47600 ) N ;
-  - _362_ NAND3_X1
-    + PLACED ( 42940 47600 ) N ;
-  - _363_ AOI21_X1
-    + PLACED ( 45600 47600 ) N ;
-  - _364_ MUX2_X1
-    + PLACED ( 48260 47600 ) N ;
-  - _365_ OR3_X4
-    + PLACED ( 28880 42000 ) N ;
-  - _366_ NAND3_X1
-    + PLACED ( 53960 36400 ) N ;
-  - _367_ NAND2_X1
-    + PLACED ( 45600 33600 ) FS ;
-  - _368_ OAI21_X1
-    + PLACED ( 51300 36400 ) N ;
-  - _369_ NAND2_X1
-    + PLACED ( 40280 42000 ) N ;
-  - _370_ INV_X1
-    + PLACED ( 31920 36400 ) N ;
-  - _371_ NAND2_X1
-    + PLACED ( 30020 47600 ) N ;
-  - _372_ OAI21_X1
-    + PLACED ( 31160 47600 ) N ;
-  - _373_ OAI221_X1
-    + PLACED ( 37240 42000 ) N ;
-  - _374_ NAND3_X1
-    + PLACED ( 41420 42000 ) N ;
-  - _375_ OR3_X1
-    + PLACED ( 39520 44800 ) FS ;
-  - _376_ AOI21_X1
-    + PLACED ( 41420 44800 ) FS ;
-  - _377_ NOR2_X1
-    + PLACED ( 46360 44800 ) FS ;
-  - _378_ OAI21_X1
-    + PLACED ( 35720 42000 ) N ;
-  - _379_ NOR3_X1
-    + PLACED ( 42940 44800 ) FS ;
-  - _380_ AOI22_X1
-    + PLACED ( 44460 44800 ) FS ;
-  - _381_ OR2_X1
-    + PLACED ( 37620 47600 ) N ;
-  - _382_ NAND3_X1
-    + PLACED ( 39140 47600 ) N ;
-  - _383_ AOI221_X1
-    + PLACED ( 40660 47600 ) N ;
-  - _384_ MUX2_X1
-    + PLACED ( 35340 44800 ) FS ;
-  - _385_ INV_X1
-    + PLACED ( 50920 28000 ) FS ;
-  - _386_ XOR2_X1
-    + PLACED ( 48640 28000 ) FS ;
-  - _387_ NAND3_X1
-    + PLACED ( 51680 28000 ) FS ;
-  - _388_ NAND2_X1
-    + PLACED ( 44460 33600 ) FS ;
-  - _389_ OAI22_X1
-    + PLACED ( 45980 30800 ) N ;
-  - _390_ NAND3_X1
-    + PLACED ( 47120 28000 ) FS ;
-  - _391_ OAI21_X1
-    + PLACED ( 46360 19600 ) N ;
-  - _392_ NAND2_X1
-    + PLACED ( 46740 39200 ) FS ;
-  - _393_ OAI22_X1
-    + PLACED ( 46740 42000 ) N ;
-  - _394_ NOR2_X1
-    + PLACED ( 45600 42000 ) N ;
-  - _395_ NOR4_X4
-    + PLACED ( 49020 39200 ) FS ;
-  - _396_ AND2_X4
-    + PLACED ( 50920 47600 ) N ;
-  - _397_ OR4_X4
-    + PLACED ( 48640 42000 ) N ;
-  - _398_ MUX2_X1
-    + PLACED ( 45220 16800 ) FS ;
-  - _399_ XOR2_X1
-    + PLACED ( 41420 16800 ) FS ;
-  - _400_ OAI21_X1
-    + PLACED ( 43700 16800 ) FS ;
-  - _401_ MUX2_X1
-    + PLACED ( 47880 19600 ) N ;
-  - _402_ OAI21_X1
-    + PLACED ( 44840 19600 ) N ;
-  - _403_ MUX2_X1
-    + PLACED ( 43700 22400 ) FS ;
-  - _404_ XNOR2_X1
-    + PLACED ( 43700 30800 ) N ;
-  - _405_ NOR2_X1
-    + PLACED ( 47880 30800 ) N ;
-  - _406_ XNOR2_X1
-    + PLACED ( 44840 28000 ) FS ;
-  - _407_ OAI21_X1
-    + PLACED ( 43320 25200 ) N ;
-  - _408_ MUX2_X1
-    + PLACED ( 44840 25200 ) N ;
-  - _409_ INV_X1
-    + PLACED ( 31160 22400 ) FS ;
-  - _410_ NOR3_X1
-    + PLACED ( 34580 30800 ) N ;
-  - _411_ AOI21_X2
-    + PLACED ( 36100 30800 ) N ;
-  - _412_ OR3_X4
-    + PLACED ( 34200 28000 ) FS ;
-  - _414_ NAND2_X1
-    + PLACED ( 30020 22400 ) FS ;
-  - _415_ MUX2_X1
-    + PLACED ( 24320 30800 ) N ;
-  - _416_ MUX2_X1
-    + PLACED ( 21660 19600 ) N ;
-  - _417_ MUX2_X1
-    + PLACED ( 25840 16800 ) FS ;
-  - _418_ MUX2_X1
-    + PLACED ( 18620 11200 ) FS ;
-  - _419_ MUX2_X1
-    + PLACED ( 22420 14000 ) N ;
-  - _420_ MUX2_X1
-    + PLACED ( 28120 8400 ) N ;
-  - _421_ MUX2_X1
-    + PLACED ( 36480 11200 ) FS ;
-  - _422_ MUX2_X1
-    + PLACED ( 34580 19600 ) N ;
-  - _423_ AND2_X2
-    + PLACED ( 55100 25200 ) N ;
-  - _424_ NAND3_X1
-    + PLACED ( 54720 22400 ) FS ;
-  - _425_ NOR3_X1
-    + PLACED ( 59660 19600 ) N ;
-  - _426_ MUX2_X1
-    + PLACED ( 60420 16800 ) FS ;
-  - _427_ NAND4_X1
-    + PLACED ( 57000 25200 ) N ;
-  - _428_ NOR2_X1
-    + PLACED ( 58900 25200 ) N ;
-  - _429_ MUX2_X1
-    + PLACED ( 60420 30800 ) N ;
-  - _430_ INV_X1
-    + PLACED ( 57000 16800 ) FS ;
-  - _431_ NAND2_X1
-    + PLACED ( 57760 16800 ) FS ;
-  - _432_ OAI21_X1
-    + PLACED ( 57380 14000 ) N ;
-  - _433_ INV_X1
-    + PLACED ( 58900 19600 ) N ;
-  - _434_ NAND3_X1
-    + PLACED ( 55480 16800 ) FS ;
-  - _435_ OAI21_X1
-    + PLACED ( 55860 14000 ) N ;
-  - _436_ INV_X1
-    + PLACED ( 60800 22400 ) FS ;
-  - _437_ OAI21_X1
-    + PLACED ( 61560 25200 ) N ;
-  - _438_ NAND2_X1
-    + PLACED ( 61180 19600 ) N ;
-  - _439_ OAI21_X1
-    + PLACED ( 60040 25200 ) N ;
-  - _440_ INV_X1
-    + PLACED ( 53960 22400 ) FS ;
-  - _441_ NAND3_X1
-    + PLACED ( 56240 22400 ) FS ;
-  - _442_ NOR3_X1
-    + PLACED ( 58900 16800 ) FS ;
-  - _443_ MUX2_X1
-    + PLACED ( 61940 14000 ) N ;
-  - _444_ NAND4_X1
-    + PLACED ( 57760 22400 ) FS ;
-  - _445_ NOR2_X1
-    + PLACED ( 59660 22400 ) FS ;
-  - _446_ MUX2_X1
-    + PLACED ( 63460 28000 ) FS ;
-  - _447_ OAI21_X1
-    + PLACED ( 60420 14000 ) N ;
-  - _448_ OAI21_X1
-    + PLACED ( 58900 14000 ) N ;
-  - _449_ OAI21_X1
-    + PLACED ( 61560 22400 ) FS ;
-  - _450_ OAI21_X1
-    + PLACED ( 62320 19600 ) N ;
-  - _451_ MUX2_X1
-    + PLACED ( 24700 33600 ) FS ;
-  - _452_ OR2_X1
-    + PLACED ( 27360 33600 ) FS ;
-  - _453_ HA_X1
-    + PLACED ( 15580 39200 ) FS ;
-  - _454_ HA_X1
-    + PLACED ( 14060 42000 ) N ;
-  - _455_ HA_X1
-    + PLACED ( 11780 39200 ) FS ;
-  - _456_ HA_X1
-    + PLACED ( 18620 33600 ) FS ;
-  - _457_ HA_X1
-    + PLACED ( 17860 44800 ) FS ;
-  - _458_ HA_X1
-    + PLACED ( 23940 44800 ) FS ;
-  - _459_ HA_X1
-    + PLACED ( 39900 22400 ) FS ;
-  - _460_ DFFR_X1
-    + PLACED ( 55860 28000 ) FS ;
-  - _461_ DFFR_X1
-    + PLACED ( 42180 53200 ) N ;
-  - _462_ DFFR_X1
-    + PLACED ( 46360 50400 ) FS ;
-  - _463_ DFFR_X1
-    + PLACED ( 54340 47600 ) N ;
-  - _464_ DFFR_X1
-    + PLACED ( 55860 39200 ) FS ;
-  - _465_ DFFR_X1
-    + PLACED ( 27740 44800 ) FS ;
-  - _466_ DFFR_X1
-    + PLACED ( 47880 16800 ) FS ;
-  - _467_ DFFR_X1
-    + PLACED ( 51300 19600 ) N ;
-  - _468_ DFFR_X1
-    + PLACED ( 46360 22400 ) FS ;
-  - _469_ DFFR_X1
-    + PLACED ( 47500 25200 ) N ;
-  - _470_ DFFR_X1
-    + PLACED ( 26980 25200 ) N ;
-  - _471_ DFFR_X1
-    + PLACED ( 26980 30800 ) N ;
-  - _472_ DFFR_X1
-    + PLACED ( 24320 19600 ) N ;
-  - _473_ DFFR_X1
-    + PLACED ( 28500 16800 ) FS ;
-  - _474_ DFFR_X1
-    + PLACED ( 21280 11200 ) FS ;
-  - _475_ DFFR_X1
-    + PLACED ( 25080 14000 ) N ;
-  - _476_ DFFR_X1
-    + PLACED ( 28880 11200 ) FS ;
-  - _477_ DFFR_X1
-    + PLACED ( 39140 11200 ) FS ;
-  - _478_ DFFR_X1
-    + PLACED ( 37240 19600 ) N ;
-  - _479_ DFFR_X1
-    + PLACED ( 63840 8400 ) N ;
-  - _480_ DFFR_X1
-    + PLACED ( 63080 30800 ) N ;
-  - _481_ DFFR_X1
-    + PLACED ( 48260 14000 ) N ;
-  - _482_ DFFR_X1
-    + PLACED ( 63080 22400 ) FS ;
-  - _483_ DFFR_X1
-    + PLACED ( 63080 16800 ) FS ;
-  - _484_ DFFR_X1
-    + PLACED ( 63080 25200 ) N ;
-  - _485_ DFFR_X1
-    + PLACED ( 63840 11200 ) FS ;
-  - _486_ DFFR_X1
-    + PLACED ( 63840 19600 ) N ;
-  - _487_ DFFR_X1
-    + PLACED ( 28880 33600 ) FS ;
-  - _488_ DFFR_X1
-    + PLACED ( 2660 33600 ) FS ;
-  - _489_ DFFR_X1
-    + PLACED ( 2660 39200 ) FS ;
-  - _490_ DFFR_X1
-    + PLACED ( 16720 30800 ) N ;
-  - _491_ DFFR_X1
-    + PLACED ( 21280 42000 ) N ;
-  - _492_ DFFR_X1
-    + PLACED ( 2660 44800 ) FS ;
-  - _493_ DFFR_X1
+  - _275_ MUX2_X1
     + PLACED ( 10260 44800 ) FS ;
+  - _276_ NAND2_X1
+    + PLACED ( 17100 39200 ) FS ;
+  - _277_ AND2_X1
+    + PLACED ( 10260 42000 ) N ;
+  - _278_ AND2_X1
+    + PLACED ( 15580 39200 ) FS ;
+  - _279_ AND2_X1
+    + PLACED ( 12920 44800 ) FS ;
+  - _280_ XNOR2_X1
+    + PLACED ( 17480 28000 ) FS ;
+  - _281_ NOR2_X1
+    + PLACED ( 13300 47600 ) N ;
+  - _282_ AND2_X1
+    + PLACED ( 4180 39200 ) FS ;
+  - _283_ XNOR2_X1
+    + PLACED ( 7600 36400 ) N ;
+  - _284_ NOR2_X1
+    + PLACED ( 6460 36400 ) N ;
+  - _285_ AND2_X1
+    + PLACED ( 2660 39200 ) FS ;
+  - _286_ XNOR2_X1
+    + PLACED ( 5700 39200 ) FS ;
+  - _287_ NOR2_X1
+    + PLACED ( 2660 33600 ) FS ;
+  - _288_ NAND3_X1
+    + PLACED ( 17100 33600 ) FS ;
+  - _289_ NOR2_X1
+    + PLACED ( 18620 33600 ) FS ;
+  - _290_ XOR2_X1
+    + PLACED ( 20900 33600 ) FS ;
+  - _291_ NOR2_X1
+    + PLACED ( 19760 33600 ) FS ;
+  - _293_ NOR2_X1
+    + PLACED ( 31160 44800 ) FS ;
+  - _294_ INV_X1
+    + PLACED ( 14820 36400 ) N ;
+  - _295_ AND3_X1
+    + PLACED ( 11400 33600 ) FS ;
+  - _296_ XOR2_X2
+    + PLACED ( 56620 50400 ) FS ;
+  - _297_ NOR2_X1
+    + PLACED ( 41420 44800 ) FS ;
+  - _298_ NAND3_X1
+    + PLACED ( 29640 44800 ) FS ;
+  - _299_ AOI21_X1
+    + PLACED ( 38380 44800 ) FS ;
+  - _300_ MUX2_X1
+    + PLACED ( 23180 33600 ) FS ;
+  - _301_ MUX2_X1
+    + PLACED ( 31920 36400 ) N ;
+  - _303_ MUX2_X1
+    + PLACED ( 34580 39200 ) FS ;
+  - _305_ MUX2_X1
+    + PLACED ( 30400 42000 ) N ;
+  - _306_ MUX2_X1
+    + PLACED ( 31920 39200 ) FS ;
+  - _307_ MUX2_X1
+    + PLACED ( 33060 42000 ) N ;
+  - _308_ INV_X1
+    + PLACED ( 36480 50400 ) FS ;
+  - _309_ MUX2_X1
+    + PLACED ( 34580 44800 ) FS ;
+  - _310_ NAND2_X1
+    + PLACED ( 37240 44800 ) FS ;
+  - _311_ INV_X1
+    + PLACED ( 33820 44800 ) FS ;
+  - _312_ OR2_X1
+    + PLACED ( 41420 47600 ) N ;
+  - _316_ NOR2_X1
+    + PLACED ( 41420 42000 ) N ;
+  - _318_ NOR2_X1
+    + PLACED ( 45220 47600 ) N ;
+  - _319_ AOI21_X1
+    + PLACED ( 39900 42000 ) N ;
+  - _320_ OAI221_X1
+    + PLACED ( 42940 47600 ) N ;
+  - _321_ NOR3_X1
+    + PLACED ( 50160 61600 ) FS ;
+  - _322_ NAND2_X1
+    + PLACED ( 51300 58800 ) N ;
+  - _323_ AOI21_X1
+    + PLACED ( 47500 56000 ) FS ;
+  - _324_ NAND2_X1
+    + PLACED ( 46360 56000 ) FS ;
+  - _325_ INV_X2
+    + PLACED ( 53200 47600 ) N ;
+  - _326_ OAI221_X1
+    + PLACED ( 49020 56000 ) FS ;
+  - _327_ NOR3_X1
+    + PLACED ( 48260 58800 ) N ;
+  - _328_ OAI21_X1
+    + PLACED ( 49780 58800 ) N ;
+  - _329_ MUX2_X1
+    + PLACED ( 41800 56000 ) FS ;
+  - _331_ AOI21_X1
+    + PLACED ( 37240 64400 ) N ;
+  - _332_ OAI21_X1
+    + PLACED ( 38760 64400 ) N ;
+  - _333_ NAND2_X1
+    + PLACED ( 43700 67200 ) FS ;
+  - _334_ OAI21_X1
+    + PLACED ( 45980 61600 ) FS ;
+  - _335_ AOI21_X1
+    + PLACED ( 44840 67200 ) FS ;
+  - _336_ NOR2_X1
+    + PLACED ( 46360 50400 ) FS ;
+  - _337_ NOR3_X1
+    + PLACED ( 44080 53200 ) N ;
+  - _338_ INV_X1
+    + PLACED ( 41420 53200 ) N ;
+  - _339_ MUX2_X1
+    + PLACED ( 43700 50400 ) FS ;
+  - _340_ AOI22_X1
+    + PLACED ( 42180 53200 ) N ;
+  - _341_ NAND2_X1
+    + PLACED ( 50160 64400 ) N ;
+  - _342_ NOR2_X1
+    + PLACED ( 53200 61600 ) FS ;
+  - _343_ AOI21_X1
+    + PLACED ( 51680 61600 ) FS ;
+  - _344_ XNOR2_X1
+    + PLACED ( 46360 47600 ) N ;
+  - _345_ NAND3_X1
+    + PLACED ( 39900 47600 ) N ;
+  - _346_ NOR4_X1
+    + PLACED ( 53580 50400 ) FS ;
+  - _347_ NOR4_X1
+    + PLACED ( 50160 50400 ) FS ;
+  - _348_ OAI21_X1
+    + PLACED ( 52060 50400 ) FS ;
+  - _349_ NOR2_X1
+    + PLACED ( 45220 42000 ) N ;
+  - _350_ MUX2_X1
+    + PLACED ( 47500 50400 ) FS ;
+  - _351_ OAI221_X2
+    + PLACED ( 47120 53200 ) N ;
+  - _352_ MUX2_X1
+    + PLACED ( 46360 67200 ) FS ;
+  - _353_ NOR3_X1
+    + PLACED ( 40280 64400 ) N ;
+  - _354_ INV_X1
+    + PLACED ( 41800 64400 ) N ;
+  - _355_ NAND2_X1
+    + PLACED ( 42560 64400 ) N ;
+  - _356_ NOR2_X1
+    + PLACED ( 49020 61600 ) FS ;
+  - _357_ OAI21_X1
+    + PLACED ( 45980 64400 ) N ;
+  - _358_ AOI221_X1
+    + PLACED ( 43700 64400 ) N ;
+  - _359_ NOR2_X1
+    + PLACED ( 49020 67200 ) FS ;
+  - _360_ MUX2_X1
+    + PLACED ( 50160 67200 ) FS ;
+  - _361_ NAND2_X1
+    + PLACED ( 47500 64400 ) N ;
+  - _362_ NAND3_X1
+    + PLACED ( 48640 64400 ) N ;
+  - _363_ AOI21_X1
+    + PLACED ( 51300 64400 ) N ;
+  - _364_ MUX2_X1
+    + PLACED ( 52820 64400 ) N ;
+  - _365_ OR3_X4
+    + PLACED ( 48640 44800 ) FS ;
+  - _366_ NAND3_X1
+    + PLACED ( 51300 56000 ) FS ;
+  - _367_ NAND2_X1
+    + PLACED ( 44080 44800 ) FS ;
+  - _368_ OAI21_X1
+    + PLACED ( 45600 53200 ) N ;
+  - _369_ NAND2_X1
+    + PLACED ( 45220 44800 ) FS ;
+  - _370_ INV_X1
+    + PLACED ( 37240 39200 ) FS ;
+  - _371_ NAND2_X1
+    + PLACED ( 44840 61600 ) FS ;
+  - _372_ OAI21_X1
+    + PLACED ( 47500 61600 ) FS ;
+  - _373_ OAI221_X1
+    + PLACED ( 46360 44800 ) FS ;
+  - _374_ NAND3_X1
+    + PLACED ( 52820 56000 ) FS ;
+  - _375_ OR3_X1
+    + PLACED ( 52440 58800 ) N ;
+  - _376_ AOI21_X1
+    + PLACED ( 54340 56000 ) FS ;
+  - _377_ NOR2_X1
+    + PLACED ( 59280 56000 ) FS ;
+  - _378_ OAI21_X1
+    + PLACED ( 52820 44800 ) FS ;
+  - _379_ NOR3_X1
+    + PLACED ( 55860 56000 ) FS ;
+  - _380_ AOI22_X1
+    + PLACED ( 57380 56000 ) FS ;
+  - _381_ OR2_X1
+    + PLACED ( 56240 58800 ) N ;
+  - _382_ NAND3_X1
+    + PLACED ( 54340 61600 ) FS ;
+  - _383_ AOI221_X1
+    + PLACED ( 55860 61600 ) FS ;
+  - _384_ MUX2_X1
+    + PLACED ( 42180 61600 ) FS ;
+  - _385_ INV_X1
+    + PLACED ( 39140 53200 ) N ;
+  - _386_ XOR2_X1
+    + PLACED ( 38000 56000 ) FS ;
+  - _387_ NAND3_X1
+    + PLACED ( 40280 56000 ) FS ;
+  - _388_ NAND2_X1
+    + PLACED ( 43700 58800 ) N ;
+  - _389_ OAI22_X1
+    + PLACED ( 44460 56000 ) FS ;
+  - _390_ NAND3_X1
+    + PLACED ( 39900 53200 ) N ;
+  - _391_ OAI21_X1
+    + PLACED ( 39140 61600 ) FS ;
+  - _392_ NAND2_X1
+    + PLACED ( 50160 47600 ) N ;
+  - _393_ OAI22_X1
+    + PLACED ( 51300 47600 ) N ;
+  - _394_ NOR2_X1
+    + PLACED ( 51300 53200 ) N ;
+  - _395_ NOR4_X4
+    + PLACED ( 55860 53200 ) N ;
+  - _396_ AND2_X4
+    + PLACED ( 52440 53200 ) N ;
+  - _397_ OR4_X4
+    + PLACED ( 62700 53200 ) N ;
+  - _398_ MUX2_X1
+    + PLACED ( 31920 64400 ) N ;
+  - _399_ XOR2_X1
+    + PLACED ( 41420 67200 ) FS ;
+  - _400_ OAI21_X1
+    + PLACED ( 40660 61600 ) FS ;
+  - _401_ MUX2_X1
+    + PLACED ( 34580 64400 ) N ;
+  - _402_ OAI21_X1
+    + PLACED ( 33060 53200 ) N ;
+  - _403_ MUX2_X1
+    + PLACED ( 37240 47600 ) N ;
+  - _404_ XNOR2_X1
+    + PLACED ( 44840 58800 ) N ;
+  - _405_ NOR2_X1
+    + PLACED ( 47120 58800 ) N ;
+  - _406_ XNOR2_X1
+    + PLACED ( 39900 58800 ) N ;
+  - _407_ OAI21_X1
+    + PLACED ( 42180 58800 ) N ;
+  - _408_ MUX2_X1
+    + PLACED ( 37240 58800 ) N ;
+  - _409_ INV_X1
+    + PLACED ( 11780 42000 ) N ;
+  - _410_ NOR3_X1
+    + PLACED ( 42560 44800 ) FS ;
+  - _411_ AOI21_X2
+    + PLACED ( 42560 42000 ) N ;
+  - _412_ OR3_X4
+    + PLACED ( 35720 42000 ) N ;
+  - _414_ NAND2_X1
+    + PLACED ( 9880 36400 ) N ;
+  - _415_ MUX2_X1
+    + PLACED ( 12540 42000 ) N ;
+  - _416_ MUX2_X1
+    + PLACED ( 15200 42000 ) N ;
+  - _417_ MUX2_X1
+    + PLACED ( 25460 30800 ) N ;
+  - _418_ MUX2_X1
+    + PLACED ( 21660 36400 ) N ;
+  - _419_ MUX2_X1
+    + PLACED ( 25840 33600 ) FS ;
+  - _420_ MUX2_X1
+    + PLACED ( 28500 33600 ) FS ;
+  - _421_ MUX2_X1
+    + PLACED ( 34580 36400 ) N ;
+  - _422_ MUX2_X1
+    + PLACED ( 37240 36400 ) N ;
+  - _423_ AND2_X2
+    + PLACED ( 33060 50400 ) FS ;
+  - _424_ NAND3_X1
+    + PLACED ( 36480 56000 ) FS ;
+  - _425_ NOR3_X1
+    + PLACED ( 31540 53200 ) N ;
+  - _426_ MUX2_X1
+    + PLACED ( 37240 50400 ) FS ;
+  - _427_ NAND4_X1
+    + PLACED ( 34580 56000 ) FS ;
+  - _428_ NOR2_X1
+    + PLACED ( 11780 64400 ) N ;
+  - _429_ MUX2_X1
+    + PLACED ( 25460 58800 ) N ;
+  - _430_ INV_X1
+    + PLACED ( 35720 67200 ) FS ;
+  - _431_ NAND2_X1
+    + PLACED ( 36480 67200 ) FS ;
+  - _432_ OAI21_X1
+    + PLACED ( 37620 61600 ) FS ;
+  - _433_ INV_X1
+    + PLACED ( 28120 64400 ) N ;
+  - _434_ NAND3_X1
+    + PLACED ( 34200 67200 ) FS ;
+  - _435_ OAI21_X1
+    + PLACED ( 36100 61600 ) FS ;
+  - _436_ INV_X1
+    + PLACED ( 11020 64400 ) N ;
+  - _437_ OAI21_X1
+    + PLACED ( 35720 58800 ) N ;
+  - _438_ NAND2_X1
+    + PLACED ( 33060 67200 ) FS ;
+  - _439_ OAI21_X1
+    + PLACED ( 33060 56000 ) FS ;
+  - _440_ INV_X1
+    + PLACED ( 26220 42000 ) N ;
+  - _441_ NAND3_X1
+    + PLACED ( 34960 50400 ) FS ;
+  - _442_ NOR3_X1
+    + PLACED ( 32300 44800 ) FS ;
+  - _443_ MUX2_X1
+    + PLACED ( 26980 42000 ) N ;
+  - _444_ NAND4_X1
+    + PLACED ( 29640 53200 ) N ;
+  - _445_ NOR2_X1
+    + PLACED ( 37620 67200 ) FS ;
+  - _446_ MUX2_X1
+    + PLACED ( 38760 67200 ) FS ;
+  - _447_ OAI21_X1
+    + PLACED ( 33060 61600 ) FS ;
+  - _448_ OAI21_X1
+    + PLACED ( 34580 61600 ) FS ;
+  - _449_ OAI21_X1
+    + PLACED ( 30400 64400 ) N ;
+  - _450_ OAI21_X1
+    + PLACED ( 28880 64400 ) N ;
+  - _451_ MUX2_X1
+    + PLACED ( 20140 39200 ) FS ;
+  - _452_ OR2_X1
+    + PLACED ( 22800 39200 ) FS ;
+  - _453_ HA_X1
+    + PLACED ( 16720 36400 ) N ;
+  - _454_ HA_X1
+    + PLACED ( 20900 30800 ) N ;
+  - _455_ HA_X1
+    + PLACED ( 13300 33600 ) FS ;
+  - _456_ HA_X1
+    + PLACED ( 17100 30800 ) N ;
+  - _457_ HA_X1
+    + PLACED ( 2660 36400 ) N ;
+  - _458_ HA_X1
+    + PLACED ( 11020 36400 ) N ;
+  - _459_ HA_X1
+    + PLACED ( 39900 50400 ) FS ;
+  - _460_ DFFR_X1
+    + PLACED ( 10260 58800 ) N ;
+  - _461_ DFFR_X1
+    + PLACED ( 2660 58800 ) N ;
+  - _462_ DFFR_X1
+    + PLACED ( 2660 56000 ) FS ;
+  - _463_ DFFR_X1
+    + PLACED ( 17860 61600 ) FS ;
+  - _464_ DFFR_X1
+    + PLACED ( 10260 56000 ) FS ;
+  - _465_ DFFR_X1
+    + PLACED ( 17860 67200 ) FS ;
+  - _466_ DFFR_X1
+    + PLACED ( 2660 44800 ) FS ;
+  - _467_ DFFR_X1
+    + PLACED ( 25460 61600 ) FS ;
+  - _468_ DFFR_X1
+    + PLACED ( 14440 47600 ) N ;
+  - _469_ DFFR_X1
+    + PLACED ( 28120 58800 ) N ;
+  - _470_ DFFR_X1
+    + PLACED ( 17860 58800 ) N ;
+  - _471_ DFFR_X1
+    + PLACED ( 17860 50400 ) FS ;
+  - _472_ DFFR_X1
+    + PLACED ( 2660 42000 ) N ;
+  - _473_ DFFR_X1
+    + PLACED ( 24320 39200 ) FS ;
+  - _474_ DFFR_X1
+    + PLACED ( 2660 67200 ) FS ;
+  - _475_ DFFR_X1
+    + PLACED ( 14440 44800 ) FS ;
+  - _476_ DFFR_X1
+    + PLACED ( 22040 47600 ) N ;
+  - _477_ DFFR_X1
+    + PLACED ( 24320 36400 ) N ;
+  - _478_ DFFR_X1
+    + PLACED ( 22040 44800 ) FS ;
+  - _479_ DFFR_X1
+    + PLACED ( 22040 53200 ) N ;
+  - _480_ DFFR_X1
+    + PLACED ( 10260 61600 ) FS ;
+  - _481_ DFFR_X1
+    + PLACED ( 2660 61600 ) FS ;
+  - _482_ DFFR_X1
+    + PLACED ( 25460 67200 ) FS ;
+  - _483_ DFFR_X1
+    + PLACED ( 29640 47600 ) N ;
+  - _484_ DFFR_X1
+    + PLACED ( 20520 64400 ) N ;
+  - _485_ DFFR_X1
+    + PLACED ( 12920 64400 ) N ;
+  - _486_ DFFR_X1
+    + PLACED ( 25460 50400 ) FS ;
+  - _487_ DFFR_X1
+    + PLACED ( 17860 56000 ) FS ;
+  - _488_ DFFR_X1
+    + PLACED ( 25460 56000 ) FS ;
+  - _489_ DFFR_X1
+    + PLACED ( 5700 47600 ) N ;
+  - _490_ DFFR_X1
+    + PLACED ( 18620 42000 ) N ;
+  - _491_ DFFR_X1
+    + PLACED ( 10260 67200 ) FS ;
+  - _492_ DFFR_X1
+    + PLACED ( 3800 33600 ) FS ;
+  - _493_ DFFR_X1
+    + PLACED ( 2660 50400 ) FS ;
   - _494_ DFFR_X1
-    + PLACED ( 28500 50400 ) FS ;
+    + PLACED ( 7980 39200 ) FS ;
   - _495_ DFFR_X1
-    + PLACED ( 22420 47600 ) N ;
+    + PLACED ( 10260 50400 ) FS ;
   - _496_ DFFR_X1
-    + PLACED ( 20140 36400 ) N ;
+    + PLACED ( 2660 30800 ) N ;
   - PHY_EDGE_ROW_0_Left_24 TAPCELL_X1
     + FIXED ( 2280 2800 ) N ;
   - PHY_EDGE_ROW_0_Right_0 TAPCELL_X1
